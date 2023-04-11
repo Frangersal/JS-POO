@@ -1,2 +1,2 @@
-# JS-Promesas
-Ejercicio de Promesas de JavaScript en la semana 6 de Generations Mx
+# JS-POO
+Ejercicio de OPP de JavaScript en la semana 7 de Generations Mx
